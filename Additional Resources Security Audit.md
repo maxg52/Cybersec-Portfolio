@@ -41,7 +41,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 
 
-# Controls and compliance checklist
+# Controls and compliance checklist (2/2)
 
 To complete the controls assessment checklist, refer to the information provided in the scope, goals, and risk assessment report. For more details about each control, including the type and purpose, refer to the control categories document.
 
