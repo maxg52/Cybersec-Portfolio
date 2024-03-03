@@ -1,6 +1,15 @@
 # Cybersec-Portfolio
 Assignments from my cybersecurity certificate course 
 
+Completed Assignments
+---------------------
 
-[**Completed Assignments**](https://github.com/maxg52/Cybersec-Portfolio/tree/Completed-Assignments)  
-[**Materials Used**](https://github.com/maxg52/Cybersec-Portfolio/tree/Supporting-Materials)
+  
+[Security Audit Botium Toys](https://github.com/maxg52/Cybersec-Portfolio/blob/main/Security%20Audit%20Botium%20Toys.md)
+
+Materials Used
+--------------
+
+  
+[References for Security Audit](https://github.com/maxg52/Cybersec-Portfolio/blob/main/Additional%20Resources%20Security%20Audit.md)
+
