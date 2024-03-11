@@ -16,7 +16,7 @@ Intrusion detection system (IDS)- *No*
 
 Backups -*No*
 	
-Antivirus software- **Yes***
+Antivirus software- **Yes**
 
 Manual monitoring, maintenance, and intervention for legacy systems- *No*	
 
